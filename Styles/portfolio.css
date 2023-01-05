@@ -87,6 +87,7 @@ text-align: center;
   color: #757575;
   font-size: 18px;
 padding-top: 30;
+padding-bottom: 20px;
 }
 .about-info-container{
   display: flex;
@@ -169,3 +170,24 @@ margin-bottom: 20px;
   border-radius: 5px;
   background: #fd6e0a;
 }
+/* contact style */
+.contact .section-title{
+  text-align: left;
+}
+.contact{
+  display: flex;
+  gap: 110px;
+  background: #FFF8F3;
+  padding: 130px 200px;
+}
+.contact input[type="text"],input[type="email"], textarea{
+  margin-bottom: 24px;
+  border: 0;
+  width: 100%;
+  padding: 18px 30px;
+}
+.contact a{
+  text-decoration: none;
+  margin: 40px;
+}
+
