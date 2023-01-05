@@ -9,11 +9,21 @@
   color: #ffffff;
   font-weight: 700;
   font-size: 20px;
-  border: 0;
   padding: 18px 35px;
   height: 64px;
   border-radius: 5px;
   background: #fd6e0a;
+  border: 0;
+}
+.btn-contact{
+  color: #FD6E0A;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 18px 35px;
+  height: 64px;
+  border-radius: 5px;
+  margin-left: 30px;
+  border-color: #FD6E0A;
 }
 
 .header{
