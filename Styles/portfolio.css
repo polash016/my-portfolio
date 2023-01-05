@@ -15,6 +15,7 @@
   border-radius: 5px;
   background: #fd6e0a;
 }
+
 .header{
   background: #FFF8F3;
   background-image: url(../images/header_bg.png), url(../images/developer.png);
@@ -49,6 +50,7 @@ nav li {
   align-items: center;
   margin: 0 200px;
 }
+
 .banner-title {
   font-weight: 700;
   font-size: 50px;
